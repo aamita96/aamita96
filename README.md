@@ -1,4 +1,4 @@
-### Hi there, Here's a list of thing about me- 👋
+### Hi there 👋, Here's a list of thing about me-
 
 - 👨‍💻 Working as a Frontend Developer over at BRSoftech using Angular.  
 - 🌱 I’m constant learner.
