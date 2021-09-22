@@ -1,13 +1,30 @@
-### Hi there 👋, Here's a list of thing about me-
+<h1 align='center'>Hi, I'm Amit Khatri 👋</h1>
+<hr>
+Here's a list of thing about me-
 
-- 👨‍💻 Working as a Frontend Developer over at BRSoftech using Angular.  
+- 👨‍💻 A passionate front end developer from Iɴᴅɪᴀ :india: .  
+- 🔭 Currently working on **Angular** .  
 - 🌱 I’m constant learner.
-<!-- - 📫 Reach me on - [LinkedIn](https://www.linkedin.com/in/amit-khatri-193ab9125/) [Gmail](aamita96@gmail.com) -->
-<div align='center'>
-<a href="https://www.instagram.com/amit_k96/"><img height="30" src="icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/amit-khatri-193ab9125/"><img height="30" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:aamita96@gmail.com"><img height="30" src="icons/mail.svg?raw=true"></a>&nbsp;&nbsp;
-</div>
+- 🎮 Regional cricket player, love video games 
+- 📫 Reach me at aamita96@gmail.com
+- 💬 Ask me about anything, I will be glad to help.
+
+## Connect with me
+
+<hr>
+<p align='left'>
+<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="aamita96"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/amit-khatri-193ab9125/">
+<a href="https://www.instagram.com/amit_k96/">
+<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" alt="aamita96"></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/aamita96">
+<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/hackerrank.svg" alt="aamita96"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/amit-khatri-193ab9125/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" alt="aamita96"></a>&nbsp;&nbsp;
+</p>
+
+<!-- ## Technologies -->
+
+<hr>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
