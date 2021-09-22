@@ -11,13 +11,13 @@ Here's a list of thing about me-
 ## Connect with me
 
 <p align='left'>
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="aamita96"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/amit-khatri-193ab9125/">
+<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="aamita96"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/amit_k96/">
 <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" alt="aamita96"></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/aamita96">
 <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/hackerrank.svg" alt="aamita96"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/amit-khatri-193ab9125/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" alt="aamita96"></a>&nbsp;&nbsp;
+<!-- <a href="https://www.linkedin.com/in/amit-khatri-193ab9125/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" alt="aamita96"></a>&nbsp;&nbsp; -->
 </p>
 
 <!-- ## Technologies -->
