@@ -4,7 +4,7 @@ Here's a list of thing about me-
 - 👨‍💻 A passionate front end developer from Iɴᴅɪᴀ :india: .  
 - 🔭 Currently working on **Angular** .  
 - 🌱 I’m constant learner.
-- 🎮 Regional cricket player, love video games 
+- 🏏 Regional cricket player, 🎮 love video games 
 - 📫 Reach me at aamita96@gmail.com
 - 💬 Ask me about anything, I will be glad to help.
 
