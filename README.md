@@ -1,5 +1,4 @@
 <h1 align='center'>Hi, I'm Amit Khatri 👋</h1>
-<hr>
 Here's a list of thing about me-
 
 - 👨‍💻 A passionate front end developer from Iɴᴅɪᴀ :india: .  
@@ -11,7 +10,6 @@ Here's a list of thing about me-
 
 ## Connect with me
 
-<hr>
 <p align='left'>
 <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="aamita96"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/amit-khatri-193ab9125/">
@@ -23,8 +21,6 @@ Here's a list of thing about me-
 </p>
 
 <!-- ## Technologies -->
-
-<hr>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
