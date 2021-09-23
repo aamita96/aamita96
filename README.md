@@ -20,9 +20,39 @@ Here's a list of thing about me-
 <!-- <a href="https://www.linkedin.com/in/amit-khatri-193ab9125/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" alt="aamita96"></a>&nbsp;&nbsp; -->
 </p>
 
-<!-- ## Technologies -->
+## ⚡Technologies
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+### Languges and Tools
+<a href="https://code.visualstudio.com/" target="_blank">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css">
+</a>
+<a href="https://javascript.info/" target="_blank">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript">
+</a>
+<a href="https://angular.io/" target="_blank">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular">
+</a>
+<a href="https://getbootstrap.com/" target="_blank">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap">
+</a>
+<a href="https://nodejs.org/" target="_blank">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs">
+</a>
+<a href="https://expressjs.com/" target="_blank">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express">
+</a>
+<a href="https://git-scm.com/" target="_blank">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git">
+</a>
+<a href="https://github.com/" target="_blank">
+<img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github">
+</a>
 
 
 <!--
