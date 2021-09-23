@@ -20,9 +20,8 @@ Here's a list of thing about me-
 <!-- <a href="https://www.linkedin.com/in/amit-khatri-193ab9125/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" alt="aamita96"></a>&nbsp;&nbsp; -->
 </p>
 
-## ⚡Technologies
+## ⚡Languages and Tools
 
-### Languges and Tools
 <a href="https://code.visualstudio.com/" target="_blank">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code">
 </a>
@@ -53,7 +52,9 @@ Here's a list of thing about me-
 <a href="https://github.com/" target="_blank">
 <img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github">
 </a>
-
+<a href="https://www.postman.com/" target="_blank">
+<img height="30" src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="postman">
+</a>
 
 <!--
 **aamita96/aamita96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
