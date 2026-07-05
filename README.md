@@ -8,7 +8,7 @@ Senior Full Stack Developer from Jaipur, India 🇮🇳 | Building scalable web 
 - 🔭 Currently learning and building projects with **MERN Stack** (React 19, Redux Toolkit, Express, MongoDB)
 - 📚 Strong foundation in **Angular** (6-20) — expertise in component architecture, state management (NgRx), and TypeScript
 - 🌱 Passionate about clean code, REST APIs, and agile methodology
-- 🏏 Regional cricket player 🎮 | Love exploring new technologies & gaming
+- 🏏 Regional cricket player | Love exploring new technologies & 🎮 gaming
 - 💬 Ask me about React, Node.js, MEAN/MERN stack, or full-stack development — happy to help!
 - 📫 Reach me at **aamita96@gmail.com**
 
